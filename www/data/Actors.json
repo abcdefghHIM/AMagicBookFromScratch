@@ -1,4 +1,4 @@
 [
 null,
-{"id":1,"battlerName":"","characterIndex":0,"characterName":"a","classId":1,"equips":[],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":1,"name":"佣兵","nickname":"佣兵","note":"","profile":""}
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"a","classId":1,"equips":[],"faceIndex":0,"faceName":"","traits":[],"initialLevel":50,"maxLevel":50,"name":"佣兵","nickname":"佣兵","note":"","profile":""}
 ]
